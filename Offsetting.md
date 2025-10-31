@@ -50,9 +50,10 @@ graph TD
     G --> H[Credits Issued to Registry]
     H --> I[Credits Delivered to Company]
     I --> J[Company Claims Carbon Neutrality]
+    J --> A
 ```
 
-This flowchart illustrates the simplified process of carbon offsetting from emissions to neutrality claims.
+This circular flowchart illustrates the offsetting cycle, where achieving neutrality enables continued operations that may generate new emissions.
 
 ## Offset Project Categories
 
