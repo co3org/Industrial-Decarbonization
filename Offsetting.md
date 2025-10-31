@@ -36,3 +36,80 @@ These issues necessitate continual improvements in governance, data quality, and
 ## Beyond Offsetting
 
 What if climate strategies focused on transforming value chains instead of compensating after the fact? Enter carbon insetting—a far superior methodology poised to redefine how companies invest in emissions reductions. Stay tuned.
+
+# Offsetting Process Flow
+
+```mermaid
+sequenceDiagram
+    participant Company
+    participant Registry
+    participant Project Developer
+    participant Verifier
+
+    Company->>Registry: Calculate emissions (tCO2e)
+    Company->>Registry: Search for eligible offset credits
+    Registry-->>Company: List available credits
+    Company->>Registry: Purchase credits
+    Registry->>Project Developer: Transfer funds
+    Project Developer->>Verifier: Request verification
+    Verifier-->>Project Developer: Audit and certify reductions
+    Project Developer->>Registry: Issue credits
+    Registry-->>Company: Deliver credits
+    Company->>Company: Claim carbon neutrality
+```
+
+This sequence diagram illustrates the typical process of purchasing and retiring carbon offset credits in a voluntary market.
+
+## Offset Project Categories
+
+```mermaid
+graph TD
+    A[Carbon Offset Projects] --> B[Renewable Energy]
+    A --> C[Avoided Deforestation]
+    A --> D[Methane Capture]
+    A --> E[Soil Carbon Practices]
+    A --> F[Engineered Removals]
+    
+    B --> B1[Solar Farms]
+    B --> B2[Wind Turbines]
+    B --> B3[Hydroelectric Dams]
+    
+    C --> C1[Forest Protection]
+    C --> C2[REDD+ Initiatives]
+    
+    D --> D1[Landfill Gas Capture]
+    D --> D2[Agricultural Methane Reduction]
+    
+    E --> E1[Regenerative Agriculture]
+    E --> E2[Afforestation]
+    
+    F --> F1[Direct Air Capture]
+    F --> F2[Carbon Mineralization]
+    F --> F3[Bioenergy with CCS]
+```
+
+This diagram categorizes common types of carbon offset projects and their subcategories.
+
+## Voluntary vs. Compliance Markets
+
+```mermaid
+graph LR
+    subgraph Voluntary Markets
+        V1[Flexible purchasing]
+        V2[Broader project types]
+        V3[ESG goals]
+        V4[Market confidence required]
+    end
+    
+    subgraph Compliance Markets
+        C1[Legal mandates]
+        C2[Stringent standards]
+        C3[Limited project types]
+        C4[Government oversight]
+    end
+    
+    Voluntary Markets -->|Can support| Compliance Markets
+    Compliance Markets -->|Provides credibility to| Voluntary Markets
+```
+
+This diagram compares the characteristics of voluntary and compliance carbon markets.
