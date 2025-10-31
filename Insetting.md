@@ -23,11 +23,6 @@ graph TD
     E --> F[Value Chain Projects]
     F --> G[Direct Reductions]
     G --> H[Embedded in Operations]
-    
-    style E fill:#e1f5fe
-    style F fill:#e1f5fe
-    style G fill:#e1f5fe
-    style H fill:#e1f5fe
 ```
 
 ## Why Insetting Outperforms Offsetting for Decarbonization
@@ -54,10 +49,6 @@ flowchart LR
     C --> D[Emission Reductions]
     D --> E[Inset Credits]
     E --> F[Tied to Supply Chain]
-    
-    style A fill:#f0f8ff
-    style E fill:#e1f5fe
-    style F fill:#e1f5fe
 ```
 
 ## Methodology in Practice
