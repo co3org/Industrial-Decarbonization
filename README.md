@@ -162,8 +162,9 @@ It goes **beyond factories** to include:
 
 ## Key Pages
 
-- [Insetting](Insetting.md)
+- [Industries](Industries.md)
 - [Offsetting](Offsetting.md)
+- [Insetting](Insetting.md)
 
 ---
 
