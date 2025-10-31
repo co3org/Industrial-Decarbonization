@@ -29,6 +29,7 @@ Industrial decarbonization is the phasing out of atmospheric greenhouse gas (GHG
   - [Workforce Transition & Just Transition](#workforce-transition--just-transition)
 - [Challenges & Barriers](#challenges--barriers)
 - [Resources & Further Reading](#resources--further-reading)
+- [Key Pages](#key-pages)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -146,7 +147,7 @@ It goes **beyond factories** to include:
 ### Supply Chain & Scope 3 Decarbonization
 - Supplier decarbonization roadmaps
 - Book-and-claim systems for green materials
-- Insetting and offset alternatives
+- Insetting and offsetting alternatives
 
 ### Workforce Transition & Just Transition
 - Reskilling for green jobs (hydrogen technicians, CCUS operators)
@@ -172,6 +173,13 @@ It goes **beyond factories** to include:
 - [IEA Net Zero by 2050](https://www.iea.org/reports/net-zero-by-2050)
 - [World Economic Forum: Decarbonizing All Industries](https://www.weforum.org/stories/2024/12/net-zero-hard-to-abate-sectors-decarbonization/)
 - [Carbon3.net](https://www.carbon3.net/)
+
+---
+
+## Key Pages
+
+- [Insetting](Insetting.md)
+- [Offsetting](Offsetting.md)
 
 ---
 
