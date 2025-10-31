@@ -41,19 +41,16 @@ What if climate strategies focused on transforming value chains instead of compe
 
 ```mermaid
 graph LR
-    A[Company Emits CO2] --> B[Calculate Emissions]
-    B --> C[Search for Offset Credits]
-    C --> D[Purchase Credits from Registry]
-    D --> E[Registry Transfers Funds to Project Developer]
-    E --> F[Project Developer Implements Climate Project]
-    F --> G[Verifier Audits and Certifies Reductions]
-    G --> H[Credits Issued to Registry]
-    H --> I[Credits Delivered to Company]
-    I --> J[Company Claims Carbon Neutrality]
-    J --> A
+    A[Company Emits CO2] --> B[Calculate Emissions & Purchase Offsets]
+    B --> C[Fund Climate Projects]
+    C --> D[Projects Reduce/Remove CO2]
+    D --> E[Verifier Certifies Reductions]
+    E --> F[Credits Issued & Delivered]
+    F --> G[Claim Carbon Neutrality]
+    G --> A
 ```
 
-This circular flowchart illustrates the offsetting cycle, where achieving neutrality enables continued operations that may generate new emissions.
+This simplified circular flowchart shows the core offsetting cycle in fewer steps.
 
 ## Offset Project Categories
 
@@ -64,26 +61,9 @@ graph TD
     A --> D[Methane Capture]
     A --> E[Soil Carbon Practices]
     A --> F[Engineered Removals]
-    
-    B --> B1[Solar Farms]
-    B --> B2[Wind Turbines]
-    B --> B3[Hydroelectric Dams]
-    
-    C --> C1[Forest Protection]
-    C --> C2[REDD+ Initiatives]
-    
-    D --> D1[Landfill Gas Capture]
-    D --> D2[Agricultural Methane Reduction]
-    
-    E --> E1[Regenerative Agriculture]
-    E --> E2[Afforestation]
-    
-    F --> F1[Direct Air Capture]
-    F --> F2[Carbon Mineralization]
-    F --> F3[Bioenergy with CCS]
 ```
 
-This diagram categorizes common types of carbon offset projects and their subcategories.
+This diagram shows the main categories of carbon offset projects.
 
 ## Voluntary vs. Compliance Markets
 
