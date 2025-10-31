@@ -2,8 +2,6 @@
 
 Offsetting is the practice of compensating for greenhouse gas emissions by funding projects that either avoid emitting an equivalent amount of carbon dioxide or remove it from the atmosphere. Organizations and individuals use offsets to balance their carbon ledgers when direct emission reductions are difficult or costly. Properly structured offsetting can buy time for deeper decarbonization strategies, but it demands rigorous standards to deliver real-world climate benefits.
 
-## Offset Project Categories
-
 ```mermaid
 graph TD
     A[Carbon Offset Projects] --> B[Renewable Energy]
@@ -26,8 +24,6 @@ Carbon offset credits represent quantified emission reductions or removals, typi
 
 Common project categories include renewable energy deployment, avoided deforestation, methane capture, soil carbon practices, and engineered removals such as direct air capture with geological storage.
 
-## Offsetting Process Flow
-
 ```mermaid
 graph LR
     A[Company Emits CO2] --> B[Calculate Emissions & Purchase Offsets]
@@ -49,9 +45,6 @@ Voluntary markets allow corporations, institutions, and individuals to purchase 
 ### Compliance Carbon Markets
 
 Compliance (or regulated) markets operate under government-imposed caps or obligations. Entities covered by cap-and-trade systems or carbon taxes can use approved offsets to meet part of their legal requirements. These markets typically feature stringent accreditation, limited eligible project types, and tight monitoring to ensure environmental integrity while maintaining policy objectives.
-
-
-## Voluntary vs. Compliance Markets
 
 ```mermaid
 graph TD
