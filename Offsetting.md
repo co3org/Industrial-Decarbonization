@@ -40,7 +40,7 @@ What if climate strategies focused on transforming value chains instead of compe
 # Offsetting Process Flow
 
 ```mermaid
-graph TD
+graph LR
     A[Company Emits CO2] --> B[Calculate Emissions]
     B --> C[Search for Offset Credits]
     C --> D[Purchase Credits from Registry]
