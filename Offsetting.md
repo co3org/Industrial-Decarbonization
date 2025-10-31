@@ -47,7 +47,6 @@ graph LR
     D --> E[Verifier Certifies Reductions]
     E --> F[Credits Issued & Delivered]
     F --> G[Claim Carbon Neutrality]
-    G --> A
 ```
 
 This simplified circular flowchart shows the core offsetting cycle in fewer steps.
