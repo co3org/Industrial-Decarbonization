@@ -13,6 +13,23 @@ Inset credits (sometimes called supply-chain carbon credits) quantify verified e
 
 Inset credits still require robust methodologies, rigorous measurement, third-party validation, and transparent governance. Leading frameworks such as the International Platform for Insetting (IPI) and Gold Standard's Value Chain Initiatives provide emerging guidance.
 
+```mermaid
+graph TD
+    A[Company Emissions] --> B[Traditional Offsets]
+    B --> C[External Projects]
+    C --> D[Compensation Elsewhere]
+    
+    A --> E[Inset Credits]
+    E --> F[Value Chain Projects]
+    F --> G[Direct Reductions]
+    G --> H[Embedded in Operations]
+    
+    style E fill:#e1f5fe
+    style F fill:#e1f5fe
+    style G fill:#e1f5fe
+    style H fill:#e1f5fe
+```
+
 ## Why Insetting Outperforms Offsetting for Decarbonization
 
 1. **Direct operational leverage:** Emissions reductions occur where the organization has influence, enabling systemic change rather than compensatory accounting.
@@ -30,6 +47,19 @@ Inset credits still require robust methodologies, rigorous measurement, third-pa
 - **Fashion & Apparel:** Brands collaborate with textile mills and cotton producers to adopt regenerative agriculture, renewable thermal energy, and water recycling. Verified reductions become inset credits attached to specific product lines, providing scope 3 transparency for consumers and regulators.
 - **Technology & Electronics:** Electronics manufacturers engage component suppliers to power operations with renewables, implement circular design, and recover critical minerals. The emission savings are issued as inset credits mapped to product SKUs, improving lifecycle assessments.
 
+```mermaid
+flowchart LR
+    A[Company] --> B[Suppliers/Partners]
+    B --> C[Regenerative Practices]
+    C --> D[Emission Reductions]
+    D --> E[Inset Credits]
+    E --> F[Tied to Supply Chain]
+    
+    style A fill:#f0f8ff
+    style E fill:#e1f5fe
+    style F fill:#e1f5fe
+```
+
 ## Methodology in Practice
 
 1. **Value-chain mapping:** Identify hotspots in upstream and downstream emissions, prioritizing segments where collaborative projects can deliver measurable reductions.
@@ -38,11 +68,35 @@ Inset credits still require robust methodologies, rigorous measurement, third-pa
 4. **Credit issuance:** Convert verified reductions into inset credits, assign them to specific business units or products, and document claims per established standards.
 5. **Retirement and disclosure:** Retire inset credits within corporate accounts to avoid resale, integrate data into sustainability reporting, and ensure auditability.
 
+```mermaid
+flowchart TD
+    A[Value-chain Mapping] --> B[Identify Emission Hotspots]
+    B --> C[Project Design]
+    C --> D[Co-create Interventions]
+    D --> E[Measurement, Reporting, Verification]
+    E --> F[Establish Baselines & Tracking]
+    F --> G[Third-party Validation]
+    G --> H[Credit Issuance]
+    H --> I[Convert Reductions to Credits]
+    I --> J[Assign to Business Units/Products]
+    J --> K[Retirement and Disclosure]
+    K --> L[Retire Credits]
+    L --> M[Integrate into Reporting]
+```
+
 ## Building the Insetting Ecosystem
 
 - **Standards & Governance:** Harmonized protocols from IPI, SBTi's FLAG guidance, and sector-specific coalitions establish integrity and comparability.
 - **Finance & Incentives:** Blended finance, supplier pre-financing, and long-term purchasing contracts de-risk investments for smaller value-chain partners.
 - **Digital Infrastructure:** Traceability platforms, granular emissions accounting, and interoperable registries maintain transparency and prevent double counting.
 - **Capacity Building:** Training for suppliers, cooperatives, and local communities ensures equitable participation and long-term project success.
+
+```mermaid
+pie title Insetting Ecosystem Components
+    "Standards & Governance" : 25
+    "Finance & Incentives" : 25
+    "Digital Infrastructure" : 25
+    "Capacity Building" : 25
+```
 
 Insetting transforms decarbonization from an external transaction into a shared operational mandate. It strengthens supply chains, accelerates innovation, and delivers climate impact where it matters most—within the systems that create products and services. The future of credible corporate climate action is inset, embedded, and accountable.
