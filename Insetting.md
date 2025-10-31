@@ -94,5 +94,5 @@ Insetting transforms decarbonization from an external transaction into a shared 
 
 ## Further Reading
 
-- [Carbon Insetting: Historical Trends and Future Opportunities](Insetting-Historical-Trends-and-Future-Opportunities.md)
-- [Insetting for Hard-to-Abate Sectors](Insetting-Hard-to-Abate-Sectors.md)
+- [Carbon Insetting: Historical Trends and Future Opportunities](Articles/Insetting-Historical-Trends-and-Future-Opportunities.md)
+- [Insetting for Hard-to-Abate Sectors](Articles/Insetting-Hard-to-Abate-Sectors.md)
