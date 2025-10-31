@@ -68,7 +68,7 @@ This diagram shows the main categories of carbon offset projects.
 ## Voluntary vs. Compliance Markets
 
 ```mermaid
-graph LR
+graph TD
     subgraph VM [Voluntary Markets]
         V1[Flexible purchasing]
         V2[Broader project types]
