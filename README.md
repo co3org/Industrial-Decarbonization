@@ -152,6 +152,8 @@ It goes **beyond factories** to include:
 - Reskilling for green jobs (hydrogen technicians, CCUS operators)
 - Community benefit agreements in industrial zones
 
+---
+
 ## Challenges & Barriers
 
 | Challenge | Impact | Mitigation |
@@ -162,12 +164,16 @@ It goes **beyond factories** to include:
 | Scope 3 data gaps | Incomplete planning | Digital traceability, standards |
 | Policy fragmentation | Uneven progress | Global alignment (e.g., G7, Mission Innovation) |
 
+---
+
 ## Resources & Further Reading
 
 - [U.S. DOE Industrial Decarbonization Roadmap](https://www.energy.gov/sites/default/files/2024-12/itiac-march-2024-cresko-industrial-decarb-roadmap.pdf)
 - [IEA Net Zero by 2050](https://www.iea.org/reports/net-zero-by-2050)
 - [World Economic Forum: Decarbonizing All Industries](https://www.weforum.org/stories/2024/12/net-zero-hard-to-abate-sectors-decarbonization/)
 - [Carbon3.net](https://www.carbon3.net/)
+
+---
 
 ## Contributing
 
