@@ -151,20 +151,20 @@ It goes **beyond factories** to include:
 
 ---
 
-## Resources & Further Reading
+## Further Reading
+
+- [Industries](Industries.md)
+- [Offsetting](Offsetting.md)
+- [Insetting](Insetting.md)
+
+---
+
+## Key Resources
 
 - [U.S. DOE Industrial Decarbonization Roadmap](https://www.energy.gov/sites/default/files/2024-12/itiac-march-2024-cresko-industrial-decarb-roadmap.pdf)
 - [IEA Net Zero by 2050](https://www.iea.org/reports/net-zero-by-2050)
 - [World Economic Forum: Decarbonizing All Industries](https://www.weforum.org/stories/2024/12/net-zero-hard-to-abate-sectors-decarbonization/)
 - [Carbon3.net](https://www.carbon3.net/)
-
----
-
-## Key Pages
-
-- [Industries](Industries.md)
-- [Offsetting](Offsetting.md)
-- [Insetting](Insetting.md)
 
 ---
 
