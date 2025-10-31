@@ -91,3 +91,7 @@ pie title Insetting Ecosystem Components
 ```
 
 Insetting transforms decarbonization from an external transaction into a shared operational mandate. It strengthens supply chains, accelerates innovation, and delivers climate impact where it matters most—within the systems that create products and services. The future of credible corporate climate action is inset, embedded, and accountable.
+
+## Further Reading
+
+- [Carbon Insetting: Historical Trends and Future Opportunities](Insetting-Article-01.md)
