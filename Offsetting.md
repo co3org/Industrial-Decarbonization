@@ -40,25 +40,19 @@ What if climate strategies focused on transforming value chains instead of compe
 # Offsetting Process Flow
 
 ```mermaid
-sequenceDiagram
-    participant Company
-    participant Registry
-    participant Project Developer
-    participant Verifier
-
-    Company->>Registry: Calculate emissions (tCO2e)
-    Company->>Registry: Search for eligible offset credits
-    Registry-->>Company: List available credits
-    Company->>Registry: Purchase credits
-    Registry->>Project Developer: Transfer funds
-    Project Developer->>Verifier: Request verification
-    Verifier-->>Project Developer: Audit and certify reductions
-    Project Developer->>Registry: Issue credits
-    Registry-->>Company: Deliver credits
-    Company->>Company: Claim carbon neutrality
+graph TD
+    A[Company Emits CO2] --> B[Calculate Emissions]
+    B --> C[Search for Offset Credits]
+    C --> D[Purchase Credits from Registry]
+    D --> E[Registry Transfers Funds to Project Developer]
+    E --> F[Project Developer Implements Climate Project]
+    F --> G[Verifier Audits and Certifies Reductions]
+    G --> H[Credits Issued to Registry]
+    H --> I[Credits Delivered to Company]
+    I --> J[Company Claims Carbon Neutrality]
 ```
 
-This sequence diagram illustrates the typical process of purchasing and retiring carbon offset credits in a voluntary market.
+This flowchart illustrates the simplified process of carbon offsetting from emissions to neutrality claims.
 
 ## Offset Project Categories
 
@@ -94,22 +88,22 @@ This diagram categorizes common types of carbon offset projects and their subcat
 
 ```mermaid
 graph LR
-    subgraph Voluntary Markets
+    subgraph VM [Voluntary Markets]
         V1[Flexible purchasing]
         V2[Broader project types]
         V3[ESG goals]
         V4[Market confidence required]
     end
     
-    subgraph Compliance Markets
+    subgraph CM [Compliance Markets]
         C1[Legal mandates]
         C2[Stringent standards]
         C3[Limited project types]
         C4[Government oversight]
     end
     
-    Voluntary Markets -->|Can support| Compliance Markets
-    Compliance Markets -->|Provides credibility to| Voluntary Markets
+    VM -->|Can support| CM
+    CM -->|Provides credibility to| VM
 ```
 
 This diagram compares the characteristics of voluntary and compliance carbon markets.
