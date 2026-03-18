@@ -1,0 +1,78 @@
+name: Daily Copilot Agent Contributor
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Every day at 8:00 AM UTC
+  workflow_dispatch:      # Allow manual trigger for testing
+
+permissions:
+  issues: write
+
+jobs:
+  create-agent-task:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create daily contribution issue for Copilot
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toISOString().split('T')[0];
+
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Daily Contribution: Research & Add New Industrial Decarbonization Resources (${today})`,
+              body: `## 🌱 Daily Expert Contributor Task — ${today}
+
+You are acting as a **senior expert contributor** to this industrial decarbonization knowledge base (an awesome-list style resource hub). Your role is to grow and improve this repository with high-quality, curated additions.
+
+---
+
+### 🎯 Primary Goals
+
+1. **Find & Add New Resources** — Identify recent, credible, high-value resources related to industrial decarbonization:
+   - Research papers, academic publications, and scientific reports
+   - Policy documents, regulations, and government frameworks
+   - Industry case studies, pilots, and real-world deployments
+   - Tools, databases, and open-source projects
+   - News about breakthroughs in key hard-to-abate sectors (steel, cement, chemicals, shipping, aviation, etc.)
+   - Standards, certification schemes, and methodologies
+
+2. **Curate with Quality Standards** — Only add resources that are:
+   - Authoritative (published by credible institutions: IEA, IPCC, governments, top universities, reputable NGOs, industry bodies)
+   - Substantive and relevant to industrial decarbonization practice
+   - **Not already present** in the repository (check existing content carefully)
+   - Recent preferred, but seminal older works are welcome
+
+3. **Improve Structure When Needed** — If the structure could better serve readers:
+   - Reorganize or rename sections for clarity
+   - Fix broken links
+   - Improve descriptions of existing resources
+   - Create new sections/files if a topic is underrepresented
+
+---
+
+### 📁 Repository Structure
+
+- \`README.md\` — Main entry point and overview
+- \`Industries.md\` — Industry-specific decarbonization resources (steel, cement, chemicals, etc.)
+- \`Insetting.md\` — Carbon insetting resources
+- \`Offsetting.md\` — Carbon offsetting resources
+- \`Articles/\` — In-depth articles directory
+
+---
+
+### ✅ Contribution Guidelines
+
+- Follow the **existing markdown formatting style** precisely
+- Add a **brief, informative description** for each new resource (1–2 sentences)
+- Place resources in the **most appropriate file and section**
+- If you add 5+ resources to a topic not well represented, consider creating a new section
+- Write a **clear PR title and description** summarizing what you added and why it matters
+
+Please research thoroughly and create a PR with your contributions.`,
+              assignees: ['copilot'],
+            });
+
+            console.log(`✅ Created issue #${issue.data.number}`);
+            console.log(`🔗 ${issue.data.html_url}`);
