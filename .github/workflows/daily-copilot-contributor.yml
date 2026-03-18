@@ -2,7 +2,7 @@ name: Daily Copilot Agent Contributor
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Every day at 8:00 AM UTC
+    - cron: '0 8 * * *'  # Every day at 8:00 AM UTC — triggers Copilot agent
   workflow_dispatch:      # Allow manual trigger for testing
 
 permissions:
