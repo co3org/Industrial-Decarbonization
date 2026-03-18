@@ -165,6 +165,9 @@ It goes **beyond factories** to include:
 - [IEA Net Zero by 2050](https://www.iea.org/reports/net-zero-by-2050)
 - [World Economic Forum: Decarbonizing All Industries](https://www.weforum.org/stories/2024/12/net-zero-hard-to-abate-sectors-decarbonization/)
 - [Carbon3.net](https://www.carbon3.net/)
+- [IEA: The Role of Hydrogen in Decarbonizing Industry (2023)](https://www.iea.org/reports/hydrogen-in-industry) - Analyzes hydrogen's potential to decarbonize industrial sectors like steel and chemicals, with updated 2023 data on pilots and cost projections.
+- [European Commission: Net-Zero Industry Act (2023)](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1665) - Outlines EU policy to boost clean tech manufacturing, including targets for green hydrogen and CCUS by 2030.
+- [Mission Possible Partnership: Aviation Transition Strategy (2023)](https://missionpossiblepartnership.org/aviation-transition-strategy/) - Provides a roadmap for aviation decarbonization, focusing on sustainable aviation fuels (SAF) and demand-side measures.
 
 ---
 
