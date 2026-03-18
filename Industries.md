@@ -25,7 +25,6 @@ Industry accounts for about 30% of global CO2 emissions. The largest emitting se
 - **Recycling and scrap use**: Increase scrap share to 32% by 2030 (current ~32%, but needs to rise).
 - **Electrification**: Use renewable electricity for EAFs.
 - **Innovation**: Breakthrough technologies like hydrogen DRI at scale.
-- **Recent Development**: [IEA Hydrogen in Industry Report (2023)](https://www.iea.org/reports/hydrogen-in-industry) highlights green hydrogen pilots like HYBRIT in Sweden, achieving near-zero emission steel production.
 
 ## Cement Industry
 
@@ -113,29 +112,13 @@ Industry accounts for about 30% of global CO2 emissions. The largest emitting se
 - **Biomass and electrification**: Use bioenergy and electric drying.
 - **CCUS**: Capture emissions.
 
-## Logistics, Shipping & Aviation
-
-### Status Quo
-- Shipping and aviation contribute ~3% and ~2% of global CO2 emissions, respectively.
-- Current processes: Heavy reliance on fossil fuels for propulsion and energy.
-
-### Challenges
-- Long asset lifetimes: Ships and planes operate for decades, slowing technology turnover.
-- Energy density needs: Alternatives to fossil fuels must meet high performance demands.
-- Global coordination: International nature requires harmonized policies and standards.
-
-### What is Needed to Decarbonize
-- **Shipping**: Ammonia and hydrogen fuels, port electrification, and efficiency measures. [Global Maritime Forum: Decarbonizing Shipping (2023)](https://www.globalmaritimeforum.org/news/insight-brief-decarbonizing-shipping-all-hands-on-deck) outlines strategies for zero-emission vessels by 2030.
-- **Aviation**: Sustainable aviation fuels (SAF), hydrogen aircraft for short-haul, and operational efficiencies. [Mission Possible Partnership Aviation Strategy (2023)](https://missionpossiblepartnership.org/aviation-transition-strategy/) targets 10% SAF adoption by 2030.
-- **Logistics**: Electrification of last-mile delivery, optimized routing, and intermodal transport.
-
 ## Cross-Sector Solutions
 
 - **Electrification**: Increase electricity share in industry from 21% to 46% by 2050 (IEA).
 - **Hydrogen**: Scale up production to 187 Mt by 2050.
 - **CCUS**: Capture 2,800 Mt CO2 annually by 2050.
 - **Energy Efficiency**: Improve intensity by 4% annually.
-- **Policies**: Carbon pricing, subsidies for clean tech, international cooperation. [European Commission Net-Zero Industry Act (2023)](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_1665) sets regulatory framework for scaling clean technologies in the EU.
+- **Policies**: Carbon pricing, subsidies for clean tech, international cooperation.
 
 ## Conclusion
 
