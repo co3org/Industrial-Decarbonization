@@ -75,7 +75,21 @@ jobs:
               repo: context.repo.repo,
               title: `Daily Contribution: Research & Add New Industrial Decarbonization Resources (${today})`,
               body,
-              assignees: ['copilot'],
             });
 
             console.log(`Created issue #${issue.data.number}: ${issue.data.html_url}`);
+
+            // Assign to @copilot to trigger the Copilot coding agent.
+            // Requires: Repo Settings > Copilot > Enable coding agent.
+            try {
+              await github.rest.issues.addAssignees({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.data.number,
+                assignees: ['copilot'],
+              });
+              console.log('Assigned to @copilot successfully.');
+            } catch (err) {
+              console.warn(`Could not assign to @copilot: ${err.message}`);
+              console.warn('Enable the Copilot coding agent under Repo Settings > Copilot.');
+            }
