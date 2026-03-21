@@ -1,5 +1,9 @@
 # Insetting for Hard-to-Abate Sectors
 
+![Interior of a large industrial steel factory](https://images.pexels.com/photos/36595736/pexels-photo-36595736.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/industrial-interior-of-a-steel-factory-in-guangzhou-36595736/)*
+
 ## Introduction
 
 The global push for net-zero emissions by 2050 requires unprecedented action, particularly in hard-to-abate sectors where emissions are difficult to eliminate due to technological and economic constraints. These sectors account for approximately 30% of global CO2 emissions, making their decarbonization critical (IEA). Downstream brands, such as consumer goods companies, are under growing pressure to address Scope 3 emissions, which often constitute 70–90% of their carbon footprint.

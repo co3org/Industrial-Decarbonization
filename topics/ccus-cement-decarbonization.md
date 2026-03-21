@@ -1,5 +1,9 @@
 # Breakthroughs in Carbon Capture, Utilization, and Storage (CCUS) for Cement Decarbonization
 
+![Large industrial steel structure with complex piping](https://images.pexels.com/photos/5851547/pexels-photo-5851547.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/photo-of-oil-refinery-building-5851547/)*
+
 The cement industry is one of the most challenging sectors for decarbonization, accounting for approximately 8% of global CO2 emissions, with over 85% stemming from process emissions during clinker production and fuel combustion [IPCC AR6](https://www.ipcc.ch/report/ar6/wg3/). CCUS technologies are emerging as a critical solution, enabling up to 90% capture rates while allowing continued use of existing infrastructure. Recent advancements in 2024 highlight scalable pilots and policy support, positioning CCUS as a viable pathway for net-zero cement production by 2050.
 
 ## Key Technological Advances

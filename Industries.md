@@ -1,5 +1,9 @@
 # Industries and Industrial Decarbonization
 
+![Industrial steel factory interior with machinery](https://images.pexels.com/photos/36397942/pexels-photo-36397942.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/industrial-steel-factory-interior-with-machinery-36397942/)*
+
 This document summarizes the status quo, key constraints, and leading decarbonization pathways for major industrial sectors. It draws on the International Energy Agency (IEA) Net Zero by 2050 Roadmap and related sources to outline how different industries can move toward net-zero emissions by 2050.
 
 ## Overview of Industrial Emissions

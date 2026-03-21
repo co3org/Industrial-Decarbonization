@@ -1,5 +1,9 @@
 # Industrial Decarbonization
 
+![Silhouette of trees against Earth from space](https://images.pexels.com/photos/39553/industry-sunrise-clouds-fog-39553.jpeg)
+
+*Image source: [Pexels](https://www.pexels.com/photo/silhouette-of-trees-39553/)*
+
 Industrial decarbonization is the phasing out of atmospheric greenhouse gas (GHG) emissions from all industries. This open-source knowledge hub provides actionable strategies, technologies, policies, and case studies to eliminate emissions across the entire industrial ecosystem.
 
 ---

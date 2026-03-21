@@ -1,5 +1,9 @@
 # U.S. DOE Industrial Demonstration Program for Heavy Industry Decarbonization
 
+![Industrial factory interior with machinery and wide floor layout](https://images.pexels.com/photos/36397988/pexels-photo-36397988.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/industrial-factory-interior-with-machinery-36397988/)*
+
 ## Overview
 
 The U.S. Department of Energy (DOE) launched the Industrial Demonstration Program in 2024 as part of the Bipartisan Infrastructure Law (BIL) to accelerate the deployment of transformative technologies for decarbonizing hard-to-abate industrial sectors. This initiative allocates up to $6 billion to support large-scale demonstration projects that integrate innovative solutions like carbon capture, utilization, and storage (CCUS), clean hydrogen, and advanced electrification. The program targets emissions-intensive industries such as steel, cement, concrete, chemicals, and refining, aiming to create replicable models for net-zero emissions by 2050. By funding projects from concept to operation, it addresses key barriers including high capital costs, technical risks, and supply chain challenges, while fostering job creation and regional economic development.

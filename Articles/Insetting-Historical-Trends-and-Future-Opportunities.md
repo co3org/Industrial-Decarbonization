@@ -2,6 +2,10 @@
 
 Author: Paul Cruickshank
 
+![Industrial metal pipes and structures](https://images.pexels.com/photos/5503874/pexels-photo-5503874.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/metal-constructions-and-technologies-5503874/)*
+
 Carbon insetting offers a novel approach to decarbonization by prioritizing emissions reduction efforts directly within a company’s supply chain. Unlike offsetting, which compensates for emissions through external, often unrelated projects, insetting focuses on taking tangible steps within business operations to permanently reduce or avoid emissions. This article reviews the evolution, current trends, and key applications of insetting across agriculture, marine transportation, and aviation.
 
 ## A Brief History

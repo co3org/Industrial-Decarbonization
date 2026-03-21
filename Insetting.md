@@ -1,5 +1,9 @@
 # Insetting
 
+![Aerial view of industrial warehouses and logistics infrastructure](https://images.pexels.com/photos/5115940/pexels-photo-5115940.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/warehouses-in-a-city-5115940/)*
+
 Insetting embeds emissions reductions and removals directly within a company's value chain, rather than compensating for emissions elsewhere. The goal is to transform core operations and supplier relationships so that climate and business benefits reinforce one another. By investing in on-the-ground projects with suppliers, customers, logistics partners, or downstream users, organizations create durable emission cuts that advance climate goals, strengthen resilience, and enhance traceability.
 
 ## Inset Credits Explained

@@ -1,5 +1,9 @@
 # U.S. DOE $6 Billion Industrial Decarbonization Funding Initiative
 
+![Manufacturing plant during daytime](https://images.pexels.com/photos/2391/dirty-industry-stack-factory.jpg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/manufacturing-plant-during-daytime-2391/)*
+
 ## Overview
 
 In March 2024, the U.S. Department of Energy (DOE) announced up to $6 billion in funding to support the development and deployment of innovative technologies aimed at decarbonizing heavy industries such as steel, cement, aluminum, and chemicals. This initiative, part of the broader Industrial Demonstrations Program under the Bipartisan Infrastructure Law (BIL) and Inflation Reduction Act (IRA), seeks to accelerate the transition to low-carbon manufacturing processes, potentially reducing industrial emissions by millions of tons annually. The funding targets projects that demonstrate scalable solutions like carbon capture, utilization, and storage (CCUS), electrification, and clean hydrogen integration, addressing the fact that industry accounts for about 25% of U.S. greenhouse gas emissions.

@@ -1,5 +1,9 @@
 # Offsetting
 
+![Industrial storage tanks and stainless steel piping](https://images.pexels.com/photos/5411674/pexels-photo-5411674.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop)
+
+*Image source: [Pexels](https://www.pexels.com/photo/stainless-steel-storage-tanks-with-stainless-pipes-5411674/)*
+
 Offsetting is the practice of compensating for greenhouse gas emissions by funding projects that either avoid emitting an equivalent amount of carbon dioxide or remove it from the atmosphere. Organizations and individuals use offsets to balance their carbon ledgers when direct emission reductions are difficult or costly. Properly structured offsetting can buy time for deeper decarbonization strategies, but it demands rigorous standards to deliver real-world climate benefits.
 
 ```mermaid
