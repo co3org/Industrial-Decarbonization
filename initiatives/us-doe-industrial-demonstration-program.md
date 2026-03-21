@@ -1,4 +1,4 @@
-# US DOE Industrial Demonstration Program for Heavy Industry Decarbonization
+# U.S. DOE Industrial Demonstration Program for Heavy Industry Decarbonization
 
 ## Overview
 
@@ -42,5 +42,10 @@ Early data from analogous projects show CCUS achieving 90%+ capture rates in ste
 ## Challenges and Future Outlook
 
 Key hurdles include supply chain bottlenecks for critical minerals in electrolyzers and public acceptance of CO2 storage. DOE plans to address these through R&D hubs and international partnerships. By 2050, scaled deployment could reduce global industrial emissions by 15-20% if replicated abroad.
+
+## Related Pages
+
+- [U.S. DOE Industrial Decarbonization Funding](../policies/us-doe-industrial-decarbonization-funding.md)
+- [Industries](../Industries.md)
 
 For more details, refer to DOE's official announcements and project trackers.

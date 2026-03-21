@@ -68,6 +68,16 @@ graph TD
 
 This diagram compares the characteristics of voluntary and compliance carbon markets.
 
+## When Offsetting Can Play a Role
+
+Offsets are most defensible when they supplement, rather than replace, direct decarbonization. They can help organizations:
+
+- address residual emissions that are not yet technically or economically avoidable;
+- support early-stage climate solutions that still need demand and financing;
+- build internal accounting discipline around emissions measurement and retirement of claims.
+
+Even in these cases, offset use is stronger when paired with transparent reduction targets, clear claim boundaries, and public disclosure of methodology.
+
 ## Persistent Issues with Offsetting
 
 Despite its promise, offsetting faces structural challenges that can undermine credibility and impact:
@@ -78,6 +88,11 @@ Despite its promise, offsetting faces structural challenges that can undermine c
 
 These issues necessitate continual improvements in governance, data quality, and stakeholder accountability.
 
-## Beyond Offsetting
+## Related Approaches
 
-What if climate strategies focused on transforming value chains instead of compensating after the fact? Enter carbon insetting—a far superior methodology poised to redefine how companies invest in emissions reductions. Stay tuned.
+Many organizations are shifting attention toward value-chain decarbonization strategies such as insetting, where emissions reductions are pursued within the company's own supply chain rather than through external compensation alone.
+
+## Further Reading
+
+- [Insetting](Insetting.md)
+- [Insetting for Hard-to-Abate Sectors](Articles/Insetting-Hard-to-Abate-Sectors.md)

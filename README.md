@@ -12,10 +12,11 @@ Industrial decarbonization is the phasing out of atmospheric greenhouse gas (GHG
 - [Decarbonizing All Industries](#decarbonizing-all-industries)
 - [Cross-Cutting Enablers](#cross-cutting-enablers)
 - [Challenges & Barriers](#challenges--barriers)
-- [Resources & Further Reading](#resources--further-reading)
 - [Key Pages](#key-pages)
+- [Further Reading](#further-reading)
+- [Key Resources](#key-resources)
 - [Contributing](#contributing)
-- [License](#license)
+- [Notes](#notes)
 
 ---
 
@@ -53,35 +54,37 @@ It goes **beyond factories** to include:
 
 ## Core Decarbonization Strategies
 
+These strategies are often complementary. Most successful industrial decarbonization pathways combine operational efficiency, clean energy supply, process innovation, and enabling policy support.
+
 ### Energy Efficiency & Demand-Side Management
 - System-level process optimization
 - Smart manufacturing, IoT sensors, and digital twins
 - Demand response and load flexibility in industrial clusters
-- **SEO keywords**: industrial energy efficiency, demand-side flexibility, smart factories
+- Often the fastest and lowest-cost way to cut emissions while improving productivity
 
 ### Electrification & Grid Decarbonization
 - Replacing fossil heat with electric boilers, heat pumps, and resistance heating
 - Onsite renewables + storage for 24/7 carbon-free energy
 - Grid-interactive efficient buildings (GEBs) in industrial parks
-- **SEO keywords**: industrial electrification, carbon-free electricity, heat pumps for industry
+- Most effective where clean power supply, transmission access, and load flexibility can scale together
 
 ### Low-Carbon Fuels & Feedstocks
 - Green hydrogen, e-fuels, biofuels, and synthetic feedstocks
 - Biomass and waste-derived energy
 - Fuel-flexible boilers and kilns
-- **SEO keywords**: green hydrogen industry, sustainable aviation fuel, low-carbon ammonia
+- Important for high-temperature heat, chemical feedstocks, and transport modes that are difficult to electrify directly
 
 ### Carbon Capture, Utilization & Storage (CCUS)
 - Point-source capture (amine, membranes, cryogenic)
 - CO₂ utilization in chemicals, fuels, and building materials
 - Geological storage and monitoring
-- **SEO keywords**: CCUS industry, carbon capture cement, CO2 utilization
+- Particularly relevant for sectors with unavoidable process emissions such as cement, lime, and some chemicals
 
 ### Digital & AI-Driven Optimization
 - Predictive maintenance to reduce downtime and energy waste
 - AI-optimized supply chains and production scheduling
 - Carbon intensity forecasting and grid-aware operations
-- **SEO keywords**: AI decarbonization, digital twins sustainability, industrial AI
+- Works best when paired with strong measurement, controls, and facility-level operational data
 
 ---
 
@@ -102,7 +105,7 @@ It goes **beyond factories** to include:
 ### Logistics, Shipping & Aviation
 - Ammonia-fueled ships, sustainable aviation fuel (SAF), electric short-haul
 - Port electrification and shore power
-- **SEO keywords**: decarbonizing shipping, green logistics, sustainable aviation
+- Progress depends on fuel availability, fleet turnover, and shared infrastructure across ports and airports
 
 ### Data Centers & Digital Infrastructure
 - Liquid cooling, waste heat reuse, renewable PPAs
@@ -151,6 +154,27 @@ It goes **beyond factories** to include:
 
 ---
 
+## Key Pages
+
+### Foundational Pages
+
+- [Industries](Industries.md): broad overview of sector pathways and themes
+- [Insetting](Insetting.md): internal value-chain emissions reduction approaches
+- [Offsetting](Offsetting.md): external carbon credit mechanisms and tradeoffs
+
+### Topic, Policy, and Initiative Pages
+
+- [CCUS for Cement Decarbonization](topics/ccus-cement-decarbonization.md)
+- [U.S. DOE Industrial Decarbonization Funding](policies/us-doe-industrial-decarbonization-funding.md)
+- [U.S. DOE Industrial Demonstration Program](initiatives/us-doe-industrial-demonstration-program.md)
+
+### Articles
+
+- [Insetting in Hard-to-Abate Sectors](Articles/Insetting-Hard-to-Abate-Sectors.md)
+- [Insetting: Historical Trends and Future Opportunities](Articles/Insetting-Historical-Trends-and-Future-Opportunities.md)
+
+---
+
 ## Further Reading
 
 - [Industries](Industries.md)
@@ -178,4 +202,4 @@ We welcome:
 
 ## Notes
 
-This repository is part of the [Carbon3.net](https://www.carbon3.net/) framework for green solutions.
+This repository is funded by [Carbon3.net](https://www.carbon3.net/).

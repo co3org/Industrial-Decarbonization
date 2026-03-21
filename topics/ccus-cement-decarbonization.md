@@ -24,3 +24,9 @@ Internationally, the UNIDO's 2024 report emphasizes CCUS as essential for develo
 Despite progress, challenges include high upfront costs (€300-500 million per plant) and infrastructure needs for CO2 transport and storage. Energy penalties from capture (10-20% of plant energy) require renewable integration. Ongoing R&D, such as solid sorbent innovations, aims to cut costs by 50% by 2030 [IEA CCUS Report](https://www.iea.org/reports/ccus-in-clean-energy-transitions).
 
 By combining CCUS with efficiency measures and alternative fuels, the cement sector could achieve 70-90% emissions reductions. Collaborative hubs and standardized regulations will be key to widespread adoption, supporting global net-zero goals.
+
+## Related Pages
+
+- [Industries](../Industries.md)
+- [U.S. DOE Industrial Decarbonization Funding](../policies/us-doe-industrial-decarbonization-funding.md)
+- [U.S. DOE Industrial Demonstration Program](../initiatives/us-doe-industrial-demonstration-program.md)

@@ -4,7 +4,7 @@
 
 The global push for net-zero emissions by 2050 requires unprecedented action, particularly in hard-to-abate sectors where emissions are difficult to eliminate due to technological and economic constraints. These sectors account for approximately 30% of global CO2 emissions, making their decarbonization critical (IEA). Downstream brands, such as consumer goods companies, are under growing pressure to address Scope 3 emissions, which often constitute 70–90% of their carbon footprint.
 
-No single business can achieve decarbonization alone. Collaboration and co-investment in greener infrastructure are essential to scale solutions equitably and effectively. Insetting offers a pathway to align environmental goals with financial returns, ensuring additionality and fostering partnerships across value chains. As noted by McKinsey, the voluntary carbon market, which includes both offset and inset credits, is expected to grow significantly, with demand potentially increasing by 15 times by 2030 and the market worth more than $50bn.
+No single business can achieve decarbonization alone. Collaboration and co-investment in greener infrastructure are essential to scale solutions equitably and effectively. Insetting offers a pathway to align environmental goals with operational improvements, while fostering partnerships across value chains. As noted by McKinsey, the voluntary carbon market, which includes both offset and inset credits, is expected to grow significantly, with demand potentially increasing by 15 times by 2030 and the market worth more than $50bn.
 
 ## What is Insetting?
 
@@ -22,13 +22,13 @@ Unlike offsetting, which has faced criticism for greenwashing and questionable e
 
 ## Case Studies: Insetting in Hard-to-Abate Sectors
 
-The following case studies illustrate how insetting can be applied in hard-to-abate sectors, drawing on hypothetical scenarios informed by industry trends and real-world examples.
+The following case studies are illustrative scenarios based on industry trends and real-world project models. They show how insetting can be structured in hard-to-abate sectors, rather than documenting a single verified program.
 
 ### Case Study 1: Steel Industry — Green Hydrogen Integration
 
 Sector: Heavy Industry  
 Challenge: Steel production is energy-intensive, relying heavily on coal-based blast furnaces, contributing 7–9% of global emissions.  
-Insetting Solution: A consortium of steel manufacturers, supported by C3, co-invested in a green hydrogen production facility to replace coal in steelmaking. The project was implemented within the supply chain, with hydrogen sourced from renewable energy. Downstream brands, including automotive companies, co-funded the initiative to reduce their Scope 3 emissions.  
+Insetting Solution: A consortium of steel manufacturers co-invested in a green hydrogen production facility to replace coal in steelmaking. The project was implemented within the supply chain, with hydrogen sourced from renewable energy. Downstream brands, including automotive companies, co-funded the initiative to reduce their Scope 3 emissions.  
 Outcomes:
 
 - Emission Reduction: 30% reduction in Scope 1 emissions for steelmakers and Scope 3 emissions for downstream brands.
@@ -41,7 +41,7 @@ Outcomes:
 
 Sector: Aviation  
 Challenge: Aviation accounts for 2% of global emissions, with limited scalable alternatives to fossil-based jet fuel.  
-Insetting Solution: C3 facilitated a partnership between airlines, fuel producers, agricultural suppliers, and downstream travel companies to develop a SAF supply chain using bio-based feedstocks. Travel brands co-invested in SAF production and committed to long-term offtake agreements to reduce their Scope 3 emissions.  
+Insetting Solution: A partnership between airlines, fuel producers, agricultural suppliers, and downstream travel companies developed a SAF supply chain using bio-based feedstocks. Travel brands co-invested in SAF production and committed to long-term offtake agreements to reduce their Scope 3 emissions.  
 Outcomes:
 
 - Emission Reduction: 50% reduction in lifecycle emissions for SAF, benefiting airlines and downstream brands.
@@ -54,7 +54,7 @@ Outcomes:
 
 Sector: Maritime  
 Challenge: Shipping contributes 3% of global emissions, with ports often relying on diesel-powered equipment.  
-Insetting Solution: C3 coordinated a collaboration between shipping companies, port operators, renewable energy providers, and downstream retailers to electrify port operations. Retailers co-invested to reduce Scope 3 emissions from logistics.  
+Insetting Solution: Shipping companies, port operators, renewable energy providers, and downstream retailers collaborated to electrify port operations. Retailers co-invested to reduce Scope 3 emissions from logistics.  
 Outcomes:
 
 - Emission Reduction: 40% reduction in Scope 2 emissions at ports and Scope 3 emissions for retailers.
@@ -75,7 +75,7 @@ A study in Nature Communications found that only 16% of carbon credits issued to
 
 ## Ensuring Additionality
 
-C3 employs rigorous methodologies to verify additionality, including:
+Robust insetting programs should verify additionality through:
 
 - Baseline Scenarios: Demonstrating that emissions would not have been reduced without the project.
 - Financial Analysis: Confirming that the project required external investment to be viable.
@@ -89,7 +89,7 @@ While insetting fosters collaboration, achieving equity in co-investment and ben
 - Geographic Disparities: Benefits may concentrate in developed regions, leaving developing economies behind.
 - Community Engagement: Ensuring local communities are meaningfully involved requires deliberate effort.
 
-## C3’s Approach to Equity
+## Approaches to Equity
 
 - Tiered Investment Models: Flexible financing options allow smaller players to contribute proportionally.
 - Regional Focus: Prioritizing projects in underserved regions to balance global impact.
@@ -117,7 +117,7 @@ Downstream brands can engage in insetting through:
 
 ### Example: Consumer Goods Brand and Green Steel
 
-A global consumer goods brand partnered with C3 to co-invest in the green hydrogen steel project (Case Study 1). By funding 10% of the project and committing to purchase green steel for packaging, the brand reduced its Scope 3 emissions by 100,000 tCO2e annually. It received 20% of the inset credits, saving $2M in compliance costs. The brand’s sustainability credentials attracted eco-conscious consumers, boosting sales by 5%.
+A global consumer goods brand co-invested in the green hydrogen steel project described in Case Study 1. By funding 10% of the project and committing to purchase green steel for packaging, the brand reduced its Scope 3 emissions by 100,000 tCO2e annually. It received 20% of the inset credits, saving $2M in compliance costs.
 
 ## Financial Gains from Insetting
 
@@ -132,4 +132,8 @@ Insetting delivers measurable financial benefits, making it a compelling strateg
 
 Insetting offers a powerful framework for decarbonizing hard-to-abate sectors, delivering additionality, financial gains, and equitable outcomes. For downstream brands, insetting provides a direct pathway to reduce Scope 3 emissions by actively participating in upstream decarbonization efforts. As the voluntary carbon market scales, with projected growth to over $50 billion by 2030, insetting provides a credible and impactful way for companies to contribute to global climate goals. By focusing on internal value chain reductions, insetting not only enhances environmental sustainability but also strengthens business resilience and competitiveness in a carbon-constrained world.
 
-Authored by Ilja Nevolin from Carbon3.
+## Related Pages
+
+- [Insetting](../Insetting.md)
+- [Offsetting](../Offsetting.md)
+- [Carbon Insetting: Historical Trends and Future Opportunities](Insetting-Historical-Trends-and-Future-Opportunities.md)

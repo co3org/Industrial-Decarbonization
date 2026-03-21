@@ -1,10 +1,10 @@
 # Industries and Industrial Decarbonization
 
-This document explores the status quo, challenges, and decarbonization pathways for key industrial sectors that are major contributors to global greenhouse gas emissions. Based on data from the International Energy Agency (IEA) Net Zero by 2050 Roadmap and other sources, we highlight the current state and the technologies and policies needed to achieve net-zero emissions by 2050.
+This document summarizes the status quo, key constraints, and leading decarbonization pathways for major industrial sectors. It draws on the International Energy Agency (IEA) Net Zero by 2050 Roadmap and related sources to outline how different industries can move toward net-zero emissions by 2050.
 
 ## Overview of Industrial Emissions
 
-Industry accounts for about 30% of global CO2 emissions. The largest emitting sectors include steel, cement, chemicals, and oil refining. Decarbonization requires a combination of energy efficiency improvements, electrification, hydrogen adoption, carbon capture and storage (CCUS), and material efficiency.
+Industry accounts for a large share of global CO2 emissions. The largest emitting sectors include steel, cement, chemicals, and oil refining. Decarbonization requires a combination of energy efficiency improvements, electrification, hydrogen adoption, carbon capture and storage (CCUS), and material efficiency.
 
 ## Steel Industry
 
@@ -122,6 +122,12 @@ Industry accounts for about 30% of global CO2 emissions. The largest emitting se
 
 ## Conclusion
 
-Decarbonizing industry requires rapid deployment of available technologies and innovation in new ones. Advanced economies must lead, while supporting developing countries. By 2050, industry can be net-zero with the right investments and policies.
+Decarbonizing industry requires both rapid deployment of commercially available technologies and continued innovation in emerging ones. Progress will depend on capital investment, infrastructure build-out, policy support, and international coordination. Different sectors will move at different speeds, but the overall direction is clear: lower-emissions industrial production will increasingly define competitiveness.
+
+## Related Pages
+
+- [Industrial Decarbonization Funding](policies/us-doe-industrial-decarbonization-funding.md)
+- [Industrial Demonstration Program](initiatives/us-doe-industrial-demonstration-program.md)
+- [CCUS for Cement Decarbonization](topics/ccus-cement-decarbonization.md)
 
 Sources: IEA Net Zero by 2050 Roadmap, World Steel Association, IPCC reports.

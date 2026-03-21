@@ -1,4 +1,4 @@
-# US DOE $6 Billion Industrial Decarbonization Funding Initiative
+# U.S. DOE $6 Billion Industrial Decarbonization Funding Initiative
 
 ## Overview
 
@@ -35,5 +35,10 @@ This initiative is a cornerstone of the U.S. strategy to achieve net-zero emissi
 ## Next Steps and Monitoring
 
 Funded projects are expected to reach final investment decisions by 2026, with operations starting in the late 2020s. Stakeholders can track progress via the DOE's Industrial Efficiency and Decarbonization Office (IEDO). Future phases may expand to additional sectors like pulp and paper, emphasizing the need for continued R&D investment.
+
+## Related Pages
+
+- [U.S. DOE Industrial Demonstration Program](../initiatives/us-doe-industrial-demonstration-program.md)
+- [Industries](../Industries.md)
 
 For more details, refer to the official DOE fact sheet [Biden-Harris Administration Announces $6 Billion](https://www.energy.gov/articles/biden-harris-administration-announces-6-billion-industrial-decarbonization-projects).

@@ -1,5 +1,7 @@
 # Carbon Insetting: Historical Trends and Future Opportunities
 
+Author: Paul Cruickshank
+
 Carbon insetting offers a novel approach to decarbonization by prioritizing emissions reduction efforts directly within a company’s supply chain. Unlike offsetting, which compensates for emissions through external, often unrelated projects, insetting focuses on taking tangible steps within business operations to permanently reduce or avoid emissions. This article reviews the evolution, current trends, and key applications of insetting across agriculture, marine transportation, and aviation.
 
 ## A Brief History
@@ -26,6 +28,10 @@ Despite its promise, carbon insetting faces challenges related to standardizatio
 
 ## A New Opportunity for Meaningful Emissions Reductions
 
-Carbon insetting is becoming a practical and effective strategy for reducing supply chain emissions across various sectors. By leveraging insetting, companies can integrate sustainability into their core operations and achieve meaningful environmental benefits. If you’re ready to explore how carbon insetting can transform your organization’s approach to decarbonization, contact Carbon3 to learn more about innovative solutions that drive real impact.
+Carbon insetting is becoming a practical strategy for reducing supply chain emissions across multiple sectors. As standards mature and accounting guidance becomes clearer, insetting is likely to play a larger role in corporate climate strategies that prioritize operational change over external compensation alone.
 
-Authored by Paul Cruickshank from Carbon3.
+## Related Pages
+
+- [Insetting](../Insetting.md)
+- [Insetting for Hard-to-Abate Sectors](Insetting-Hard-to-Abate-Sectors.md)
+- [Offsetting](../Offsetting.md)
