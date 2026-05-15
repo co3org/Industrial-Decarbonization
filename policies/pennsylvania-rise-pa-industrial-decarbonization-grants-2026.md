@@ -12,6 +12,8 @@ Administered by the Pennsylvania Department of Environmental Protection (DEP), t
 
 In April 2026, DEP awarded nearly $5 million through the SAT to 14 companies statewide, targeting emissions reductions in diverse industries. These grants support upgrades like efficient HVAC systems and process optimizations, projected to save recipients over $500,000 annually in energy costs while cutting thousands of tons of CO2 equivalent.[https://www.pa.gov/agencies/dep/newsroom/2026-04-01-shapiro-administration-invests-nearly-5-million-to-help-companies-cut-energy-costs]
 
+On April 28, 2026, the Shapiro Administration announced $267 million in RISE PA grants to 31 projects across steel, cement, food, and manufacturing sectors. These awards fund technologies including carbon capture, electrification, on-site renewables, and fugitive emission controls, expected to reduce over 1.3 million metric tons of CO2 equivalents in the first year, cut statewide industrial emissions by about 2%, and save more than $3 million annually in energy costs for ratepayers.[https://www.pa.gov/governor/newsroom/2026-press-releases/shapiro-administration-invests--267m-to-cut-pollution--create-jo][https://www.catf.us/2026/04/pennsylvania-announces-267-million-awards-industrial-decarbonization-projects]
+
 The awards highlight RISE PA's role in immediate action, with applications for larger projects continuing to mobilize private investment and foster just transitions for industrial workforces.[https://www.catf.us/learn/reducing-industrial-sector-emissions-in-pennsylvania]
 
 ## Strategic Impact
