@@ -1,21 +1,20 @@
 # Pennsylvania RISE PA Industrial Decarbonization Grants (2026)
 
-The Reducing Industrial Sector Emissions in Pennsylvania (RISE PA) program is a landmark $396 million statewide grant initiative, funded through the U.S. EPA's Climate Pollution Reduction Grants (CPRG). Designed to accelerate decarbonization in Pennsylvania's industrial facilities, it supports projects that reduce greenhouse gas (GHG) emissions and co-pollutants from sectors like manufacturing, chemicals, and food processing. By investing in technologies such as electrification, energy efficiency, and low-carbon fuels, RISE PA helps businesses lower operational costs and align with net-zero goals.[https://penntap.psu.edu/grants-and-rebates/rise-pa]
+RISE PA is a $396 million statewide industrial decarbonization grant program funded through the U.S. Environmental Protection Agency's (EPA) Climate Pollution Reduction Grants (CPRG) program under the Inflation Reduction Act.
 
-## Program Structure and Funding
+## Overview
+The program supports projects across Pennsylvania to reduce greenhouse gas emissions from industrial operations, improve energy efficiency, and create jobs while cutting energy costs.
 
-RISE PA offers three tracks: Small Industry Track (SAT) for grants up to $300,000, Medium Industry Track (MIT) for $300,001 to $20 million, and Large Industry Track (LIT) for over $20 million, with a total cap of $300 million per project. Eligible applicants include industrial facilities achieving at least 20% annual facility-wide GHG reductions. The program prioritizes innovations like heat pumps, advanced boilers, and renewable energy integration to address Scope 1 and 2 emissions.[https://www.pa.gov/agencies/dep/programs-and-services/energy-programs-office/rise-pa]
+## Recent Awards
+In April 2026, the Pennsylvania Department of Environmental Protection announced $267 million in awards for 31 industrial decarbonization projects across the commonwealth, targeting emissions reductions in steel, cement, food processing, and manufacturing sectors. [Source](https://www.catf.us/2026/04/pennsylvania-announces-267-million-awards-industrial-decarbonization-projects/)
 
-Administered by the Pennsylvania Department of Environmental Protection (DEP), the initiative builds on federal IRA funding to drive economic growth through clean tech adoption. As of 2026, it represents one of the largest state-level industrial decarbonization efforts in the U.S.[https://risepagrant.com/]
+An earlier small-scale award track provided $5 million to 14 projects, saving over 5,055 metric tons of CO2e. [Source](https://www.pa.gov/agencies/dep/programs-and-services/energy-programs-office/rise-pa)
 
-## Key Recent Developments
+## Program Details
+- Total funding: $396 million
+- Focus: Industrial efficiency, process improvements, and low-carbon technologies
+- Additional rounds anticipated for medium and large projects
 
-In April 2026, DEP awarded nearly $5 million through the SAT to 14 companies statewide, targeting emissions reductions in diverse industries. These grants support upgrades like efficient HVAC systems and process optimizations, projected to save recipients over $500,000 annually in energy costs while cutting thousands of tons of CO2 equivalent.[https://www.pa.gov/agencies/dep/newsroom/2026-04-01-shapiro-administration-invests-nearly-5-million-to-help-companies-cut-energy-costs]
-
-On April 28, 2026, the Shapiro Administration announced $267 million in RISE PA grants to 31 projects across steel, cement, food, and manufacturing sectors. These awards fund technologies including carbon capture, electrification, on-site renewables, and fugitive emission controls, expected to reduce over 1.3 million metric tons of CO2 equivalents in the first year, cut statewide industrial emissions by about 2%, and save more than $3 million annually in energy costs for ratepayers.[https://www.pa.gov/governor/newsroom/2026-press-releases/shapiro-administration-invests--267m-to-cut-pollution--create-jo][https://www.catf.us/2026/04/pennsylvania-announces-267-million-awards-industrial-decarbonization-projects]
-
-The awards highlight RISE PA's role in immediate action, with applications for larger projects continuing to mobilize private investment and foster just transitions for industrial workforces.[https://www.catf.us/learn/reducing-industrial-sector-emissions-in-pennsylvania]
-
-## Strategic Impact
-
-RISE PA addresses barriers like high upfront costs for decarbonization tech, enabling Pennsylvania's industries—key to the state's economy—to compete in global low-carbon markets. By 2030, the program could reduce industrial emissions by up to 25% in participating facilities, supporting broader U.S. goals under the Industrial Decarbonization Roadmap.[https://files.dep.state.pa.us/Energy/OfficeofPollutionPrevention/RISE_PA/RISE_PA_Application_vFinal_1-29-25.pdf]
+## Related Resources
+- [US DOE Industrial Decarbonization Funding](policies/us-doe-industrial-decarbonization-funding.md)
+- [Reports on Financing Enablers](reports/10-financing-enablers-industrial-decarbonization-2026.md)
