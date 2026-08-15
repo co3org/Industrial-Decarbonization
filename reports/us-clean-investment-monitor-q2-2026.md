@@ -1,0 +1,7 @@
+# Clean Investment Monitor: US Q2 2026 Update
+
+In Q2 2026, investment in clean energy production and industrial decarbonization technologies reached approximately $25 billion, remaining flat from Q1 2026 but showing a 5% decline year-over-year. Industrial decarbonization investment totaled roughly $1 billion, down 15% from the prior quarter and 10% from Q2 2025. [Rhodium Group / Clean Investment Monitor](https://www.cleaninvestmentmonitor.org/reports/us-q2-2026-update)
+
+Within the energy and industry segment, 97% of investment went to clean electricity, with industrial decarbonization making up the balance. Investment announcements for industrial decarbonization jumped 40% quarter-over-quarter to $2 billion, driven by an iron and steel DRI project with hydrogen transition-ready technology in Arkansas. Developers canceled roughly $17 billion in previously announced clean electricity and industrial decarbonization projects—the highest quarterly cancellation on record. [Clean Investment Monitor Q2 2026](https://www.cleaninvestmentmonitor.org/reports/us-q2-2026-update)
+
+This update builds on the Q1 2026 report already in the repository and highlights ongoing trends in project announcements versus actual deployment challenges.
