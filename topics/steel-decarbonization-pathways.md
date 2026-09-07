@@ -1,7 +1,5 @@
 # Steel Decarbonization Pathways and Technologies
 
-*Image source: Pexels*
-
 This document outlines the status quo, key constraints, and leading decarbonization pathways for the steel industry, drawing on IEA, World Steel Association, and recent policy developments.
 
 ## Status Quo
