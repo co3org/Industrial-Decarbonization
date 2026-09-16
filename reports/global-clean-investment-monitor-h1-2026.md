@@ -1,0 +1,11 @@
+# Global Clean Investment Monitor: H1 2026 Update
+
+Global clean technology investment lost momentum in the first half of 2026 after several years of relatively steady growth. Investment fell 28% from Q4 2025 to approximately $375 billion in Q1 2026. [https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026](https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026)
+
+Investment in clean power, transportation, manufacturing, and low-carbon industry totaled nearly $2 trillion last year, three times the amount recorded in 2018. That momentum weakened in the first half of 2026, however. Global clean investment was 17% below the same period in 2025 and roughly in line with levels recorded in the first half of 2024. [https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026](https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026)
+
+**Despite the rise in total clean investment in 2026, driven by investment in clean power and transportation deployment, investment in the construction and expansion of clean manufacturing and industrial facilities declined for two consecutive quarters in 2026,** falling 14% in Q1 and another 7% in Q2 to $27.9 billion. This continues the downward trend in clean tech manufacturing investment underway since late 2023. [https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026](https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026)
+
+While actual capital spent on manufacturing and industrial facilities has slowed, announced investment tells a different story. Its value rose 10% ($4.2 billion) in Q1 2026 versus Q4 2025, then held steady in Q2. That breaks a four-quarter streak of consecutive declines in announced investment, offering a forward-looking signal that actual investment may pick up in the quarters ahead. [https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026](https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026)
+
+Iron and steel and cement saw investments largely level in the first half of the year. [https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026](https://www.cleaninvestmentmonitor.org/reports/global-clean-investment-h1-2026)
