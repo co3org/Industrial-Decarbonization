@@ -8,7 +8,7 @@ The Alliance for Industry Decarbonisation (AFID) is a global collaborative platf
 
 AFID brings together industry leaders, technology companies, energy firms, and knowledge partners to advance decarbonization across heavy industry sectors including steel, chemicals, cement, and building materials. It emphasizes collaboration on technology deployment, policy alignment, and investment mobilization.
 
-EMSTEEL Group (ADX: EMSTEEL), a major UAE-based steel and building materials manufacturer, was reappointed as Co-Chair of AFID for a second term in October 2026 during New York Climate Week. EMSTEEL serves alongside BASF, the world's largest chemical producer. This reappointment underscores the UAE's growing leadership in global industrial decarbonization efforts.
+EMSTEEL Group (ADX: EMSTEEL), a major UAE-based steel and building materials manufacturer, was reappointed as Co-Chair of AFID for a second term, announced during New York Climate Week in September 2026 (reported in early October 2026). EMSTEEL serves alongside BASF, the world's largest chemical producer. This reappointment underscores the UAE's growing leadership in global industrial decarbonization efforts.
 
 ## Key Focus Areas
 
