@@ -209,6 +209,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 - [CIF Industry Decarbonization Program 2026](policies/cif-industry-decarbonization-program-2026.md)
 - [CIF Seven Countries Developing Investment Plans for Heavy Industry Decarbonization (2026)](policies/cif-seven-countries-heavy-industry-decarbonization-plans-2026.md)
 - [Colorado Energy Office $5.2 Million Clean Air Program Grants for Industrial Decarbonization (2026)](policies/colorado-industrial-decarbonization-grants-2026.md)
+- [EU Carbon Border Adjustment Mechanism (CBAM): Definitive Period from 2026](policies/eu-cbam-definitive-period-2026.md)
 - [EU Carbon Market Reform: Overhaul of Free Permits for Industry (2026)](policies/eu-carbon-market-reform-2026.md)
 - [EU Clean Industrial Deal 2026](policies/eu-clean-industrial-deal-2026.md)
 - [EU Industrial Accelerator Act for Industrial Decarbonization (2026)](policies/eu-industrial-accelerator-act-2026.md)
