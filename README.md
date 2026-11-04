@@ -172,6 +172,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 
 - [ACCSESS Project: CCUS Innovations for Cement and Hard-to-Abate Industries (2026)](topics/accsess-ccus-innovations-cement-2026.md)
 - [Aluminum Sector Decarbonization Pathways and Technologies](topics/aluminum-decarbonization-pathways.md)
+- [Ammonia and Nitrogen Fertilizer Decarbonization Pathways (2026)](topics/ammonia-fertilizer-decarbonization-pathways.md)
 - [Calcined Clay as a Low-Cost Pathway for Cement Decarbonization (2026)](topics/calcined-clay-cement-decarbonization.md)
 - [Carbon Capture, Utilization, and Storage (CCUS) for Steel and Cement Decarbonization](topics/carbon-capture-steel-cement.md)
 - [CCUS for Cement Decarbonization](topics/ccus-cement-decarbonization.md)
