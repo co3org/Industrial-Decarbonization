@@ -78,7 +78,7 @@ The gap between a producer's actual emissions and the benchmark is priced from d
 
 ## Related Pages
 
-- [EU Carbon Market Reform: Overhaul of Free Permits for Industry (2026)](eu-carbon-market-reform-2026.md)
+- [EU Carbon Market Reform: ETS Review Proposal of 17 July 2026](eu-carbon-market-reform-2026.md)
 - [Global Carbon Pricing Coalition for Heavy Industry Decarbonization (2026)](../topics/carbon-pricing-heavy-industry-2026.md)
 - [Steel Decarbonization Pathways and Technologies](../topics/steel-decarbonization-pathways.md)
 - [CCUS for Cement Decarbonization](../topics/ccus-cement-decarbonization.md)
