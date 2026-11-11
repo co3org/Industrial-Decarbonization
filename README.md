@@ -182,6 +182,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 - [Data Centers and Digital Infrastructure Decarbonization Pathways](topics/data-centers-decarbonization.md)
 - [DOE Loan Programs Office Support for Industrial Decarbonization Projects](topics/doe-lpo-industrial-decarbonization-projects.md)
 - [EU JRC Factsheets on Emerging Technologies for Hard-to-Abate Industries (2026)](topics/eu-emerging-technologies-hard-to-abate-industries-2026.md)
+- [Glass Decarbonization Pathways (Europe, 2026)](topics/glass-decarbonization-pathways.md)
 - [Global Carbon Pricing Coalition for Heavy Industry Decarbonization (2026)](topics/carbon-pricing-heavy-industry-2026.md)
 - [High-Temperature Thermal Energy Storage for Industrial Decarbonization (2026)](topics/high-temperature-thermal-energy-storage-industrial-decarbonization.md)
 - [Industrial Clusters and Hubs for Accelerating Decarbonization (2026)](topics/industrial-clusters-hubs-decarbonization.md)
