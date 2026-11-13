@@ -176,6 +176,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 - [Calcined Clay as a Low-Cost Pathway for Cement Decarbonization (2026)](topics/calcined-clay-cement-decarbonization.md)
 - [Carbon Capture, Utilization, and Storage (CCUS) for Steel and Cement Decarbonization](topics/carbon-capture-steel-cement.md)
 - [CCUS for Cement Decarbonization](topics/ccus-cement-decarbonization.md)
+- [Ceramics Decarbonization Pathways (Europe, 2026)](topics/ceramics-decarbonization-pathways.md)
 - [Chemical Industry Decarbonization Pathways and Technologies](topics/chemical-industry-decarbonization.md)
 - [Chemical Looping Reforming for Low-Carbon Hydrogen Production (2026)](topics/chemical-looping-reforming-hydrogen-decarbonization-2026.md)
 - [CO2 Utilization (CCU) Pathways for Industrial Decarbonization (2026)](topics/co2-utilization-ccu-industrial-decarbonization-2026.md)
