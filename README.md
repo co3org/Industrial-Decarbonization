@@ -217,6 +217,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 - [EU Carbon Border Adjustment Mechanism (CBAM): Definitive Period from 2026](policies/eu-cbam-definitive-period-2026.md)
 - [EU Carbon Market Reform: ETS Review Proposal of 17 July 2026](policies/eu-carbon-market-reform-2026.md)
 - [EU Clean Industrial Deal 2026](policies/eu-clean-industrial-deal-2026.md)
+- [EU ETS Free-Allocation Benchmarks 2026-2030: All 54 Values and What Changed](policies/eu-ets-benchmarks-2026-2030.md)
 - [EU Industrial Accelerator Act for Industrial Decarbonization (2026)](policies/eu-industrial-accelerator-act-2026.md)
 - [EU Industrial Decarbonisation Bank (IDB) 2026](policies/eu-industrial-decarbonisation-bank-2026.md)
 - [EU Innovation Fund 2025 Auctions: €9.8 Billion in Bids for Clean Industry Projects](policies/eu-innovation-fund-2025-auctions.md)
