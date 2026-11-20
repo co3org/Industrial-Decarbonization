@@ -194,6 +194,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 - [Pure Oxyfuel Technology for Cement Decarbonization (2026)](topics/pure-oxyfuel-cement-decarbonization-2026.md)
 - [Recent Advances in Green Hydrogen for Steel Decarbonization (2026)](topics/green-hydrogen-steel-decarbonization.md)
 - [Refining Sector Decarbonization Pathways and Technologies](topics/refining-decarbonization-pathways.md)
+- [Soda Ash Decarbonization Pathways (Europe, 2026)](topics/soda-ash-decarbonization-pathways.md)
 - [Small Modular Reactors for Industrial Heat and Power Decarbonization](topics/small-modular-reactors-industrial-decarbonization.md)
 - [Steel Decarbonization Pathways and Technologies](topics/steel-decarbonization-pathways.md)
 - [Supply Chain Industrial Heat Decarbonization Blueprint 2026](topics/supply-chain-industrial-heat-decarbonization-2026.md)
