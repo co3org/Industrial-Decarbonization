@@ -189,6 +189,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 - [Industrial Clusters and Hubs for Accelerating Decarbonization (2026)](topics/industrial-clusters-hubs-decarbonization.md)
 - [Industrial Electrification and Process Heat Decarbonization Pathways](topics/industrial-electrification-process-heat-decarbonization.md)
 - [Lime Decarbonization Pathways (Europe, 2026)](topics/lime-decarbonization-pathways.md)
+- [Magnesia and Refractories Decarbonization Pathways (Europe, 2026)](topics/magnesia-refractories-decarbonization-pathways.md)
 - [Mining Sector Decarbonization Pathways and Technologies](topics/mining-decarbonization-pathways.md)
 - [Pulp and Paper Decarbonization Pathways (Europe, 2026)](topics/pulp-paper-decarbonization-pathways.md)
 - [Pure Oxyfuel Technology for Cement Decarbonization (2026)](topics/pure-oxyfuel-cement-decarbonization-2026.md)
