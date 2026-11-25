@@ -191,6 +191,7 @@ These strategies are often complementary. Most successful industrial decarboniza
 - [Lime Decarbonization Pathways (Europe, 2026)](topics/lime-decarbonization-pathways.md)
 - [Magnesia and Refractories Decarbonization Pathways (Europe, 2026)](topics/magnesia-refractories-decarbonization-pathways.md)
 - [Mining Sector Decarbonization Pathways and Technologies](topics/mining-decarbonization-pathways.md)
+- [Nitric and Adipic Acid N2O Abatement (2026)](topics/nitric-adipic-acid-n2o-abatement.md)
 - [Pulp and Paper Decarbonization Pathways (Europe, 2026)](topics/pulp-paper-decarbonization-pathways.md)
 - [Pure Oxyfuel Technology for Cement Decarbonization (2026)](topics/pure-oxyfuel-cement-decarbonization-2026.md)
 - [Recent Advances in Green Hydrogen for Steel Decarbonization (2026)](topics/green-hydrogen-steel-decarbonization.md)
